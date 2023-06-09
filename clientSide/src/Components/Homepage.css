@@ -1,0 +1,70 @@
+.maindiv{
+    width:auto;
+    border: 2px black solid;
+    display:flex;
+}
+.Logo{
+    width:80px;
+    border-radius:20px;
+}
+.home{
+    margin-left:850px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+    color:#00239CFF;
+}
+
+.how{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+    color:#00239CFF;
+}
+.Psycho{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+    color:#00239CFF;
+}
+.free{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+    color:#00239CFF;
+}
+.signup{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+    color:#00239CFF;
+}
+.login{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:24px;
+    color:#00239CFF;
+}
+.home:hover{
+    color:#F95700FF;
+    cursor: pointer;
+}
+.how:hover{
+    color:#F95700FF;
+    cursor: pointer;
+}
+.Psycho:hover{
+    color:#F95700FF;
+    cursor: pointer;
+}
+.free:hover{
+    color:#F95700FF;
+    cursor: pointer;
+}
+.signup:hover{
+    color:#F95700FF;
+    cursor: pointer;
+}
+.login:hover{
+    color:#F95700FF;
+    cursor: pointer;
+}
