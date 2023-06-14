@@ -1,0 +1,102 @@
+.maindiv{
+    width:auto;
+    /* border: 2px black solid; */
+    display:flex;
+    background-color: #90ebf1;
+}
+.Logo{
+    width:80px;
+    border-radius:20px;
+}
+.home{
+    margin-left:850px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+    color:#000080;
+}
+
+.how{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+    color:#000080;
+}
+.Psycho{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+    color:#000080;
+}
+.free{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+    color:#000080;
+}
+.signup{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+    color:#000080;
+}
+.login{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:24px;
+    color:#000080;
+}
+.home:hover{
+    color:white;
+    cursor: pointer;
+}
+.how:hover{
+    color:white;
+    cursor: pointer;
+}
+.Psycho:hover{
+    color:white;
+    cursor: pointer;
+}
+.free:hover{
+    color:white;
+    cursor: pointer;
+}
+.signup:hover{
+    color:white;
+    cursor: pointer;
+}
+.login:hover{
+    color:white;
+    cursor: pointer;
+}
+.young{
+    width:1820px;
+    height:880px;
+    /* border:#000080 2px solid; */
+}
+.smily-wowmen{
+    position: relative;
+    display: inline-block;
+}
+.text-img{
+    position: absolute;
+    top: 40%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    color: #0606bc;
+    font-weight: bold;
+    font-size:26px;
+}
+.but{
+    font-size:20px;
+    background-color:rgb(144, 144, 245);
+    color:white;
+    padding:15px 25px 15px 25px;
+    border-radius:25px;
+    margin-left:120px;
+    margin-top:30px;
+}
+.but:hover{
+    background-color:#000080;
+    cursor: pointer;
+}
