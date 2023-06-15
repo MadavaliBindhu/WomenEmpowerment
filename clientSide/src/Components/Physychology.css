@@ -71,7 +71,7 @@
 }
 .young{
     width:1820px;
-    height:880px;
+    height:680px;
     /* border:#000080 2px solid; */
 }
 .smily-wowmen{
@@ -80,8 +80,8 @@
 }
 .text-img{
     position: absolute;
-    top: 40%;
-    left: 75%;
+    top: 30%;
+    left: 25%;
     transform: translate(-50%, -50%);
     color: #0606bc;
     font-weight: bold;
@@ -97,6 +97,79 @@
     margin-top:30px;
 }
 .but:hover{
+    background-color:#000080;
+    cursor: pointer;
+}
+.box{
+    /* border: #000080 2px solid; */
+    width:auto;
+}
+.card{
+    width:400px;
+    height:520px;
+    margin-top: 80px;
+    margin-left: 50px;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+}
+.anush{
+    border-radius:3500px;
+    width: 190px;
+    margin-top:30px;
+}
+.sharma{
+    text-align:center;
+    font-size:22px;
+    margin-top:-120px;
+    margin-left:60px;
+}
+.MA{
+    text-align:center;
+    font-size:18px;
+    margin-top:-20px;
+    margin-left:120px;
+}
+.icon{
+    display: flex;
+    margin-top:50px;
+    margin-left:20px;
+}
+.star{
+    border-radius:1200px;
+    width:30px;
+    margin-top:18px;
+    margin-left:15px;
+}
+.container{
+    display: flex;
+}
+.tick{
+    width:30px;
+    margin-top:20px;
+    margin-left:35px;
+}
+p{
+    font-size:20px;
+}
+.spl{
+    margin-left:10px;
+}
+.timetable{
+    display: flex;
+}
+.time{
+    margin-top:5px;
+    margin-left:15px;
+}
+.sess{
+    margin-left:110px;
+    margin-top:25px;
+    padding: 15px 30px 15px 30px;
+    font-size:16px;
+    background-color:rgb(144, 144, 245);
+    color:white;
+    border-radius:25px;
+}
+.sess:hover{
     background-color:#000080;
     cursor: pointer;
 }
