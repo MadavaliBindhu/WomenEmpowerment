@@ -13,7 +13,7 @@ export const Login =() => {
     return(
         <div className="Header">
             <div className="Content">
-                <h1 className="Sign">Login</h1>
+                <h1 className="Login">Login</h1>
                 <h2 className="Subheading">Already have an account?signup</h2>
             </div>
                 <div className="Container">

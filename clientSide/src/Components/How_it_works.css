@@ -204,16 +204,26 @@
     margin-left:680px;
 }
 .Aashita{
-    margin-left:350px;
+    margin-left:320px;
     margin-top:-150px;
     color: #000080;
     font-size:20px;
+    background-color: rgb(169, 169, 229);
+    width: auto;
+    border-radius:25px;
+    padding:5px 15px 5px 15px;
+    font-style: italic;
 }
 .hritha{
     margin-left:200px;
     margin-top:-100px;
     color: #000080;
     font-size:20px;
+    background-color: #ceeef0;
+    width: auto;
+    border-radius:25px;
+    padding:5px 15px 5px 15px;
+    font-style: italic;
 }
 .deliver{
     text-align: center;
@@ -236,6 +246,11 @@
     margin-top:-150px;
     color: #000080;
     font-size:20px;
+    background-color: #ceeef0;
+    width: auto;
+    border-radius:25px;
+    padding:5px 15px 5px 15px;
+    font-style: italic;
 }
 .madhu{
     border-radius:1700px;
@@ -244,14 +259,19 @@
     margin-top:80px;
 }
 .Madhu{
-    margin-left:160px;
+    margin-left:140px;
     margin-top:-100px;
     color: #000080;
     font-size:20px;
+    background-color:rgb(183, 183, 226);
+    width: auto;
+    border-radius:25px;
+    padding:5px 15px 5px 15px;
+    font-style: italic;
 }
 .view{
     font-size:20px;
-    background-color:rgb(144, 144, 245);
+    background-color:rgb(183, 183, 226);
     color:white;
     padding:15px 25px 15px 25px;
     border-radius:25px;
