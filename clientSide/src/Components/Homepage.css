@@ -159,6 +159,9 @@ h4{
     margin-top:50px;
     font-weight: bold;
 }
+.Specialized{
+    background-color: #a7e8ed;
+}
 .Anxiety{
     margin-left:500px;
     margin-top:40px;
@@ -316,7 +319,7 @@ h4{
     margin-top:40px;
 }
 .calandar{
-    border-radius:60px;
+    border-radius:1800px;
     margin-left:250px;
     width:200px;
 }
@@ -367,24 +370,29 @@ h4{
 }
 .footer{
     display: flex;
-    background-color: #90ebf1;
     width:auto;
-    height:300px;
-    margin-top:40px;
+    height:230px;
+    margin-top:-20px;
+}
+.h1{
+    margin-left:750px;
+    color:blue;
 }
 .location{
     margin-top:40px;
     color:#000080;
-    margin-left:420px;
+    margin-left:220px;
 }
-p{
+.items{
+    margin-top:10px;
+    margin-left:10px;
     font-size:16px;
-    text-align:center;
 }
 .about{
     margin-left:10px;
-    font-size:24px;
+    font-size:22px;
     font-weight:bold ;
+    margin-top:25px;
 }
 .Location{
     margin-top:40px;
@@ -392,9 +400,35 @@ p{
     margin-left:250px;
     text-align: center;
 }
+.state{
+    margin-top:10px;
+    margin-left:10px;
+    font-size:16px;
+}
 .loco{
-    font-size:24px;
+    font-size:22px;
     font-weight:bold;
+    margin-top:25px;
+}
+.contact h1{
+    font-size:22px;
+    font-weight:bold;
+    margin-top:60px;
+    margin-left:180px;
+    color:#000080;
+}
+.numbers{
+    text-align: center;
+    margin-left:190px;
+    color: #000080;
+    margin-top:10px;
+}
+.media{
+    margin-top:40px;
+    color:#000080;
+    margin-left:180px;
+    text-align: center;
+    display: flex;
 }
 .google{
     border-radius:1225px;
@@ -403,18 +437,19 @@ p{
 .face{
     border-radius:1225px;
     width: 50px;
+    margin-left:10px;
 }
 .insta{
     border-radius:1225px;
     width: 50px;
+    margin-left:10px;
 }
 .social{
-    font-size:24px;
+    font-size:22px;
     font-weight:bold;
+    margin-top:20px;  
 }
-.media{
-    margin-top:40px;
-    color:#000080;
-    margin-left:250px;
-    text-align: center;
+.Media{
+    margin-top:60px;
+    margin-left:-150px ;
 }

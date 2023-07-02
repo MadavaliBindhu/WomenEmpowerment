@@ -83,7 +83,7 @@ export const  Homepage=() => {
                 <div className="Book">Book A Counselling Plan</div>
                 <div className="pick">Counselor & Pick A Time</div>
                 <div className="join">Join The Session & Chat <br />Afterwards</div>
-                <div className="reschedule">Reschedule Or Change <br />Counsel or If Needed</div>
+                <div className="reschedule">Reschedule Or Change <br />Counselor If Needed</div>
             </div>
             <div className="footer">
                 <div className="location">
