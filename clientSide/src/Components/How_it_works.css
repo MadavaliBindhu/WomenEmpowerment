@@ -1,0 +1,333 @@
+.maindiv{
+    width:auto;
+    /* border: 2px black solid; */
+    display:flex;
+    background-color: #90ebf1;
+}
+.Logo{
+    width:80px;
+    border-radius:20px;
+}
+.home{
+    margin-left:850px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+    color:#000080;
+}
+
+.how{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+    color:#000080;
+}
+.Psycho{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+    color:#000080;
+}
+.free{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+    color:#000080;
+}
+.signup{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+    color:#000080;
+}
+.login{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:24px;
+    color:#000080;
+}
+.home:hover{
+    color:white;
+    cursor: pointer;
+}
+.how:hover{
+    color:white;
+    cursor: pointer;
+}
+.Psycho:hover{
+    color:white;
+    cursor: pointer;
+}
+.free:hover{
+    color:white;
+    cursor: pointer;
+}
+.signup:hover{
+    color:white;
+    cursor: pointer;
+}
+.login:hover{
+    color:white;
+    cursor: pointer;
+}
+.Banner{
+    width:1820px;
+    /* border:#000080 2px solid; */
+}
+.img-text{
+    position: relative;
+    display: inline-block;
+}
+.text-img{
+    position: absolute;
+    top: 10%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+    color: #0606bc;
+    font-size:24px;
+    font-weight: bold;
+}
+.quest{
+    width:200px;
+    margin-left:180px;
+    margin-top:50px;
+}
+.differentimages{
+    /* border:#000080 2px solid; */
+    display: flex;
+}
+.diff{
+    /* border:#000080 2px solid; */
+    width: 500px;
+    margin-left:400px;
+}
+.choose{
+    border-left:#000080 5px solid;
+    width:500px;
+    margin-left:40px;
+
+}
+.right{
+    margin-left:80px;
+    margin-top:100px;
+    font-size:22px;
+}
+.needs{
+    margin-left:100px;
+    margin-top:110px;
+    font-size:22px;
+}
+.list{
+    width:130px;
+    margin-left:130px;
+    margin-top:100px;
+}
+.schedule{
+    width:200px;
+    margin-left:180px;
+    margin-top:80px;
+}
+.Schedule{
+    margin-left:120px;
+    margin-top:110px;
+    font-size:22px;
+}
+.girl{
+    width:200px;
+    margin-left:180px;
+    margin-top:50px;
+}
+.Regular{
+    margin-left:120px;
+    margin-top:110px;
+    font-size:22px;
+}
+.man{
+    width:200px;
+    margin-left:180px;
+    margin-top:50px; 
+}
+.get{
+    margin-left:80px;
+    margin-top:120px;
+    font-size:22px;
+}
+.date{
+    width:210px;
+    margin-left:130px;
+    margin-top:60px;
+}
+.Therapy{
+    margin-left:80px;
+    margin-top:100px;
+    font-size:22px;
+}
+.support{
+    width:210px;
+    margin-left:130px;
+    margin-top:100px;
+}
+.Continuous{
+    margin-left:80px;
+    margin-top:50px;
+    font-size:22px;
+}
+.start{
+    font-size:20px;
+    background-color:rgb(144, 144, 245);
+    color:white;
+    padding:15px 25px 15px 25px;
+    border-radius:25px;
+    margin-left:850px;
+    margin-top:30px;
+}
+.start:hover{
+    color:#000080;
+    cursor: pointer;
+}
+.Meet{
+    text-align: center;
+    margin-top:50px;
+    font-size:22px;
+    color: #0606bc;
+}
+.doctors{
+    display: flex;
+}
+.phys{
+    border-radius:1500px;
+    width:130px;
+    margin-left:200px;
+}
+.physh{
+    border-radius:1700px;
+    width:120px;
+    margin-left:680px;
+}
+.Aashita{
+    margin-left:320px;
+    margin-top:-150px;
+    color: #000080;
+    font-size:20px;
+    background-color: rgb(169, 169, 229);
+    width: auto;
+    border-radius:25px;
+    padding:5px 15px 5px 15px;
+    font-style: italic;
+}
+.hritha{
+    margin-left:200px;
+    margin-top:-100px;
+    color: #000080;
+    font-size:20px;
+    background-color: #ceeef0;
+    width: auto;
+    border-radius:25px;
+    padding:5px 15px 5px 15px;
+    font-style: italic;
+}
+.deliver{
+    text-align: center;
+    font-weight:bold;
+    margin-top:150px;
+    color: #0606bc;
+    font-size:26px;
+}
+.doctor{
+    display: flex;
+}
+.durga{
+    border-radius:1500px;
+    width:130px;
+    margin-left:200px;
+    margin-top:80px;
+}
+.Durga{
+    margin-left:350px;
+    margin-top:-150px;
+    color: #000080;
+    font-size:20px;
+    background-color: #ceeef0;
+    width: auto;
+    border-radius:25px;
+    padding:5px 15px 5px 15px;
+    font-style: italic;
+}
+.madhu{
+    border-radius:1700px;
+    width:120px;
+    margin-left:680px;
+    margin-top:80px;
+}
+.Madhu{
+    margin-left:140px;
+    margin-top:-100px;
+    color: #000080;
+    font-size:20px;
+    background-color:rgb(183, 183, 226);
+    width: auto;
+    border-radius:25px;
+    padding:5px 15px 5px 15px;
+    font-style: italic;
+}
+.view{
+    font-size:20px;
+    background-color:rgb(183, 183, 226);
+    color:white;
+    padding:15px 25px 15px 25px;
+    border-radius:25px;
+    margin-left:850px;
+    margin-top:30px;
+}
+.view:hover{
+    color:#000080;
+    cursor: pointer;
+}
+.footer{
+    display: flex;
+    background-color: #90ebf1;
+    width:auto;
+    height:300px;
+    margin-top:120px;
+}
+.location{
+    margin-top:40px;
+    color:#000080;
+    margin-left:420px;
+}
+.about{
+    margin-left:10px;
+    font-size:24px;
+    font-weight:bold ;
+}
+.Location{
+    margin-top:40px;
+    color:#000080;
+    margin-left:250px;
+    text-align: center;
+}
+.loco{
+    font-size:24px;
+    font-weight:bold;
+}
+.google{
+    border-radius:1225px;
+    width:50px;
+}
+.face{
+    border-radius:1225px;
+    width: 50px;
+}
+.insta{
+    border-radius:1225px;
+    width: 50px;
+}
+.social{
+    font-size:24px;
+    font-weight:bold;
+}
+.media{
+    margin-top:40px;
+    color:#000080;
+    margin-left:250px;
+    text-align: center;
+}
